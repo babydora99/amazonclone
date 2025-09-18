@@ -1,2 +1,2 @@
-# amazon clone 
-#made by basic of  html and css 
+# AmazonClone
+# made by basic of  html and css 
